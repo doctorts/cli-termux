@@ -1,6 +1,6 @@
 {
   "name": "@doctorts/cli-termux",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "DoctorTS framework CLI for Termux",
   "main": "doctor",
   "bin": {

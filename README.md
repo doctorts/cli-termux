@@ -1,11 +1,11 @@
-# DoctorTS framework CLI for linux
+# DoctorTS framework CLI for termux
 
 <br/>
 
 ## How to get the CLI?
 
 ```shell
-npm install -g @doctor/cli-linux
+npm install -g @doctor/cli-termux
 ```
 
 <br/>
