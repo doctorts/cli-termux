@@ -1,0 +1,20 @@
+{
+  "name": "@doctorts/cli-termux",
+  "version": "1.0.2",
+  "description": "DoctorTS framework CLI for Termux",
+  "main": "doctor",
+  "bin": {
+    "doctor": "doctor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorts/cli-termux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctorts/cli-termux/issues"
+  },
+  "homepage": "https://github.com/doctorts/cli-termux#readme"
+}
