@@ -5,7 +5,7 @@
 ## How to get the CLI?
 
 ```shell
-npm install -g @doctor/cli-termux
+npm install -g @doctorts/cli-termux
 ```
 
 <br/>
